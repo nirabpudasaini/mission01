@@ -1,0 +1,23 @@
+odm_meshing_log.txt
+Reading point cloud at: /root/mission_00001_data/reconstruction-with-image-size-2400-results/option-0000.ply
+Writing output to: /root/mission_00001_data/reconstruction-with-image-size-2400-results/odm_mesh-0000.ply
+Writing log information to: /root/mission_00001_data/reconstruction-with-image-size-2400/odm_meshing/odm_meshing_log.txt
+Vertex count was manually set to: 100000
+Octree depth was manually set to: 9
+The number of samples per octree node was manually set to: 1
+Successfully loaded 368210 points with corresponding normals from file.
+Octree depth used for reconstruction is: 9
+Estimated initial vertex count: 262144
+
+Reconstruction complete:
+Vertex count: 369993
+Triangle count: 739739
+
+Decimating mesh, removing 72.9725 percent of vertices.
+Decimation complete.
+Decimated vertex count: 100053
+Decimated triangle count: 199933
+
+Saving mesh to file.
+Successfully wrote mesh to:
+/root/mission_00001_data/reconstruction-with-image-size-2400-results/odm_mesh-0000.ply

@@ -1,0 +1,17 @@
+Bundle path was set to: /root/mission_00001_data/reconstruction-with-image-size-2400/pmvs/bundle.rd.out
+Images path was set to: /root/mission_00001_data/
+Images list path was set to: /root/mission_00001_data/reconstruction-with-image-size-2400/pmvs/list.rd.txt
+Input model path was set to: /root/mission_00001_data/reconstruction-with-image-size-2400-results/odm_mesh-0000.ply
+Output folder path was set to: /root/mission_00001_data/reconstruction-with-image-size-2400-results/odm_texturing/
+The texture resolution was set to: 4096
+The resized resolution used in bundler was set to: 2400
+The resolution to texture with was set to: 3600
+Log file path was set to: /root/mission_00001_data/reconstruction-with-image-size-2400/odm_texturing/odm_texturing_log.txt
+Successfully loaded 199933 polygons from file.
+Successfully read the bundle file.
+Successfully read the image list file.
+Error in OdmTexturing:
+Error in OdmTexturing:
+Failed to read image:
+'/root/mission_00001_data//DJI02050.jpg'
+
